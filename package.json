@@ -1,0 +1,23 @@
+{
+  "name": "momentify.js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Main Javascript API for the Momentify App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Momentify/momentify.js.git"
+  },
+  "keywords": [
+    "momentify"
+  ],
+  "author": "Momentify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Momentify/momentify.js/issues"
+  },
+  "homepage": "https://github.com/Momentify/momentify.js#readme"
+}

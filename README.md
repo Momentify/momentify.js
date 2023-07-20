@@ -1,2 +1,2 @@
-# momentify.js
-API for the Momentify App.
+# Momentify.js
+Javascript API for the Momentify App.
